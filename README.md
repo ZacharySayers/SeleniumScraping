@@ -1,2 +1,2 @@
 # Selenium
- rep for selenium tasks
+ repo for selenium tasks
